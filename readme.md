@@ -6,4 +6,4 @@ Ceci est le premier readme de mon pojet.
 
 ## Auteurs
 
-Clément Tétard
+Clément Tétard & Fethi Kifli
